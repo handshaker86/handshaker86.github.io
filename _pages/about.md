@@ -23,11 +23,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student majoring in Electronical an Computer Engineering(ECE) at **Shanghai Jiao Tong University (SJTU)**, currently visiting **Carnegie Mellon University (CMU)** as an exchange student.
+I am a junior undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University (SJTU), where I work firmly with [Prof. David L.S. Hung](https://gc.sjtu.edu.cn/about/faculty-staff/faculty-directory/faculty-detail/93/) and [Dr. Fengnian Zhao](https://scholar.google.com/citations?user=Pn4lxsIAAAAJ&hl) at [FDA Lab](https://gc.sjtu.edu.cn/research/laboratories/laboratory-detail/53/). I am currently visiting Carnegie Mellon University (CMU) as an exchange student.
 
-My research interests lie in **Computer Systems**, **Machine Learning Compilers**, and **High-Performance Computing**. I am particularly interested in the intersection of deep learning and system optimization.
+My research interests center on **Machine Learning Systems**, with a particular focus on LLM Inference Efficiency. I am passionate about bridging the gap between algorithms and underlying hardware to build efficient, scalable systems.
 
-Currently, I am working on **FlowForge (TFF)**, a project focused on machine learning compiler design for fluid dynamics.
+Recently, I developed **FlowForge**, a compile–execute system designed to tackle the computational challenges in physical flow field prediction. By addressing system-level bottlenecks, FlowForge enables efficient and stable training and inference for complex fluid dynamics, significantly outperforming standard deep learning frameworks. (Paper under review)
 
 ### Education
 
