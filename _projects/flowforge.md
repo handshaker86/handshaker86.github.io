@@ -1,8 +1,8 @@
 ---
 layout: page
-title: FlowForge (TFF)
+title: FlowForge 
 description: A Machine Learning Compiler for Fluid Dynamics
-img: assets/img/flowforge_workflow.pdf
+img: assets/img/publication_preview/flowforge_workflow.png
 importance: 1 
 category: work
 ---
