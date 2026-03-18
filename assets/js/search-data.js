@@ -407,6 +407,11 @@ ninja.data = [{
           description: "A Machine Learning Compiler for Fluid Dynamics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/flowforge/";
+            },},{id: "projects-gomoku-ai",
+          title: 'Gomoku AI',
+          description: "An Intelligent Gomoku Game with Classical AI Search Algorithms",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gomuku_ai/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
