@@ -3,8 +3,9 @@ layout: page
 title: FlowForge 
 description: A Machine Learning Compiler for Fluid Dynamics
 img: assets/img/publication_preview/flowforge_workflow.png
-importance: 1 
+importance: 1
 category: work
+github: https://github.com/JI-FDA-LAB/Tokenize-Flow-Field
 ---
 
 **FlowForge** is a high-performance compiler designed to optimize machine learning models for fluid dynamics simulations. 
