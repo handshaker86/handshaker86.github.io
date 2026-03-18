@@ -4,7 +4,7 @@ title: Gomoku AI
 description: An Intelligent Gomoku Game with Classical AI Search Algorithms
 img: assets/img/project_preview/Gomuku_AI.png
 importance: 2
-category: work
+category: fun
 github: https://github.com/handshaker86/Gomoku_AI
 ---
 
